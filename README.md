@@ -1,2 +1,2 @@
-# AuthZ
-AuthZ is a central server which can be used to authenticate any other service
+# HEIMDALL
+HEIMDALL is a central server that acts as an Authentication provider which can be used to authenticate any other service
